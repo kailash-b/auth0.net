@@ -4,11 +4,5 @@
         ".version": []
     },
     "packageLabel": "auth0-mgmt",
-    "prFilters": [
-        {
-            "type": "title",
-            "args": ["^[Ff][Ee][Aa][Tt]\\([Mm][Gg][Mm][Tt]\\):"]
-        }
-    ],
     "prefixVersion": false
 }
