@@ -3,5 +3,9 @@
         "build/common.props": [],
         ".version": []
     },
+    "packageLabel": "auth0-auth",
+    "prFilters": {
+        "title": "^feat\\(auth\\):"
+    },
     "prefixVersion": false
 }
